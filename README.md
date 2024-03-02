@@ -14,6 +14,7 @@ Step-by-Step Guide on how to run Large Language Model on a Raspberry Pi 5 (might
 2. [Setup Raspberry Pi](#setup-raspberry-pi-headless-setup)
 3. [Option 1: Run LLMs using Ollama](#option-1-run-llms-using-ollama)
 4. [Option 2: Run LLMs using Llama.cpp](#option-2-run-llms-using-llamacpp)
+5. [Extra Resoucres](#extra-resoucres)
 
 ---
 
@@ -100,3 +101,10 @@ cd ..
 ```
 
 That is it!
+
+### Extra Resoucres:
+
+- [Youtube video on how to run Ollama on Raspberry Pi](https://www.youtube.com/watch?v=ewXANEIC8pY)
+- [Llama.cpp own example](https://github.com/garyexplains/examples/blob/master/how-to-run-llama-cpp-on-raspberry-pi.md)
+- [Youtube video on how to setup Raspberry PI headlessly](https://www.youtube.com/watch?v=9fEnvDgxwbI)
+- [Adam on Twitter](https://twitter.com/adamcohenhillel)
