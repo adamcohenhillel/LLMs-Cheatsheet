@@ -1,8 +1,12 @@
+<div align="center">
+
 # How to run LLM (mistral 7b) on Raspberry Pi 5
 
-![How to run LLM (mistral 7b) on Raspberry Pi 5](./images/raspberrypi.jpeg)
+  <img src="./images/raspberrypi.jpeg" alt="How to run LLM (mistral 7b) on Raspberry Pi 5" width="300px" />
 
 Step-by-Step Guide on how to run Large Language Model on a Raspberry Pi 5 (might work on 4 too, haven't tested it yet)
+
+</div>
 
 ### Table of Content:
 
