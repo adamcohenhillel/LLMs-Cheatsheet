@@ -68,42 +68,30 @@ That is it!
 sudo apt update && sudo apt install git g++ wget build-essential
 ```
 
-2. Download and compile llama.cpp repo:
+2. Download llama.cpp repo:
 
 ```bash
 git clone https://github.com/ggerganov/llama.cpp
-```
-
-cd:
-
-```bash
 cd llama.cpp
 ```
 
-compile:
+3. Compile:
 
-```
+```bash
 make -j
 ```
 
-3. Download Mistral model:
+4. Download Mistral model:
 
-```
+```bash
 cd models
 wget https://huggingface.co/TheBloke/Mistral-7B-v0.1-GGUF/resolve/main/mistral-7b-v0.1.Q4_K_S.gguf)
 ```
 
-4. Run:
-
-Go back to repo root folder:
+5. Go back to repo root folder, and run:
 
 ```bash
 cd ..
-```
-
-Run:
-
-```
 ./main -m models/mistral-7b-v0.1.Q4_K_S.gguf -p "Whatsup?" -n 400 -e
 ```
 
