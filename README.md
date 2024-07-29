@@ -5,7 +5,7 @@ This repo aims to be a comprehensive resource for those interested in Large Lang
 ## Resources:
 
 - [Running LLMs on a Raspberry Pi](./run-llm-on-raspberry-pi.md)
-- [Fine-tune small LLama3 8B model with output from Big LLM Llama 3 405B](./fine-tune-llama3-8b-with-llama3-405b.md)
+- [Fine-tune small LLama3 8B model with output from Big LLM Llama 3 405B](./fine-tune-llama3-8b-with-llama3-405b-data.ipynb)
 
 ## Contributing
 
